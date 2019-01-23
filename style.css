@@ -15,30 +15,30 @@ p {
 
 h1, h2, h3 {
     font-weight: 400;
-    margin-bottom: 0 px;
+    margin-bottom: 0px;
 }
 
 h1 {
-    font-size: 36 px;
+    font-size: 36px;
 }
 
 h2 {
-    font-size: 32 px;
+    font-size: 32px;
     border-bottom: 1px solid grey;
-    margin-bottom: 8 px;
+    margin-bottom: 8px;
 }
 
 h3 {
-    font-size: 20 px;
+    font-size: 20px;
 }
 
 #header {
-    margin-bottom: 32 px;
+    margin-bottom: 32px;
     text-align: center;
 }
 
 #footer {
-    margin-top: 64 px;
+    margin-top: 64px;
     text-align: center;
 }
 /* END */
